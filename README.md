@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.org/Iso4datel/lab11.svg?branch=master)](https://travis-ci.org/Iso4datel/lab11)
-the demo application redirects data from stdin to a file **log.txt** using a package **print**.
+[![Build Status](https://travis-ci.org/Iso4datel/lab12.svg?branch=master)](https://travis-ci.org/Iso4datel/lab12)
+Chaving the path environment variable value **LOG_PATH**
